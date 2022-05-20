@@ -1,0 +1,53 @@
+.navbar{
+    height: 80px;
+    justify-content: space-evenly;
+}
+#img-nav{
+    height: 70px;
+    width: 80px;
+}
+
+#navbarSupportedContent{
+    text-align: right;
+}
+.navbar-collapse{
+    align-items: flex-end;
+}
+.home-dis{
+    background-image: url('public/img/food1.jpeg');
+    height:500px;
+    padding-top: 120px;
+   
+    
+}
+
+.imgdis{
+ 
+    transition: 0.5s all ease-in-out;
+}
+.imgdis:hover{
+    transform: scale(1.5) rotate(2deg);
+
+
+
+    
+}
+
+.img-tit:hover{
+    color:red
+}
+
+.vdplay{
+    height: 400px;
+    padding-top: 90px;
+    background-image: url('public/img/food3.jpeg');
+}
+
+#vedioplay{
+    font-size: 70px;
+    color: red;
+}
+.vediotitle{
+    font-weight:bolder ;
+    color: gray;
+}
