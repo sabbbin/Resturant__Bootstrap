@@ -14,9 +14,11 @@
     align-items: flex-end;
 }
 .home-dis{
-    background-image: url('public/img/food1.jpeg');
+    background-image: url('public/img/background.jpeg');
     height:500px;
     padding-top: 120px;
+
+    
    
     
 }
@@ -40,7 +42,7 @@
 .vdplay{
     height: 400px;
     padding-top: 90px;
-    background-image: url('public/img/food3.jpeg');
+    background-image: url('public/img/images.jpeg');
 }
 
 #vedioplay{
